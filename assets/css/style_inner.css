@@ -447,6 +447,7 @@ input #img-6:checked ~ .nav-dots label #img-dot-6 {
 
 
 .header {
+  z-index: 5;
   display: none;
   justify-content: center;
   position: fixed;
@@ -665,6 +666,7 @@ input #img-6:checked ~ .nav-dots label #img-dot-6 {
   top: -1vw;
 }
 header {
+  z-index: 5;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -691,11 +693,11 @@ header p {
 }
 
 .logo a {
-  font-size: 3vw;
+  font-size: 2.5vw;
   font-weight: bold;
   color: #3F374B;  
   text-decoration: none;
-  margin-left: 25vw;
+  margin-left: 31vw;
 }
 
 
@@ -762,7 +764,7 @@ header p {
     position: absolute;
 
 	  opacity: 0.5;
-    z-index: 9;
+    z-index: 2;
     cursor: pointer;
 
     transition: opacity .2s;
@@ -1196,7 +1198,7 @@ header p {
 }
 
 .logo a {
-  font-size: 6vw;
+  font-size: 4.5vw;
   color: #3F374B;  
   text-decoration: none;
 }

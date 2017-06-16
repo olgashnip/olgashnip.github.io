@@ -774,11 +774,11 @@ header p {
 }
 
 .logo a {
-  font-size: 3vw;
+  font-size: 2.5vw;
   font-weight: bold;
   color: #3F374B;  
   text-decoration: none;
-  margin-left: 25vw;
+  margin-left: 31vw;
 }
 
 
@@ -1342,13 +1342,13 @@ header p {
 }
 
 .logo a {
-  font-size: 6vw;
+  font-size: 4.5vw;
   color: #3F374B;  
   text-decoration: none;
 }
 
 header h1 {
-  margin-top: -2vw;
+  margin-top: -1vw;
 }
 
 
