@@ -935,7 +935,7 @@ input #img-6:checked ~ .nav-dots label #img-dot-6 {
 
 
 /* iPhone 5 in portrait */
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+@media only screen and (min-device-width : 0px) and (max-device-width : 568px) and (orientation : portrait) {
   
   body {
   display: flex;
